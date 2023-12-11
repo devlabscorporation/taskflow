@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family:coffee;
+    src: url(Louis\ George\ Cafe.ttf);
+}
+
+@font-face {
+    font-family:coffeeBold;
+    src: url(Louis\ George\ Cafe\ Bold.ttf);
+}
+
+@font-face {
+    font-family:coffeeLight;
+    src: url(Louis\ George\ Cafe\ Light.ttf);
+}
